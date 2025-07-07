@@ -1,6 +1,6 @@
 ## Introduction
 
-Supplementary code for 'Regression Modeling of the Count Relational Data with Network Effects'.
+Supplementary code for 'Modeling and Analysis of Count Relational Data with Dependent Edges'.
 
 ## Guidelines for Result Replication
 

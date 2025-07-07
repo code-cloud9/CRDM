@@ -1,7 +1,6 @@
-# CRDM
-Supplementary code for 'Regression Modeling of the Count Relational Data with Network Effects'.
-
 ## Introduction
+
+Supplementary code for 'Regression Modeling of the Count Relational Data with Network Effects'.
 
 ## Guidelines for Result Replication
 
